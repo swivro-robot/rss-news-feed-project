@@ -5,7 +5,7 @@ html{
 
 
 #canvas{
-    background-color: lightblue;
+     background-color: lightblue; 
 }
 
 #heading{
@@ -14,16 +14,16 @@ html{
 
 h3{
     font-size: 25px;
-    padding: 15px;
+    /* padding: 15px; */
 
 }
 
 span{
-    color: #614AD3;
+    /* color: #614AD3; */
 }
 
 #date{
-    color:#E42C64;
+    /* color:#E42C64; */
 }
 
 ul {
@@ -34,11 +34,11 @@ ul {
 
 ul a{
     text-decoration: none;
-    color: #614AD3;
-    font-weight: 800;
-    font-size: 1.2em;
+    /* color: #614AD3; */
+    /* font-weight: 800;
+    font-size: 1.2em; */
 }
 
 ul a:hover{
-    color:#E42C64;
+    /* color:#E42C64; */
 }
