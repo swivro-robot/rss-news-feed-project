@@ -5,12 +5,7 @@ html{
 
 
 #canvas{
-    box-sizing: border-box;
-    width: 600px;
     background-color: lightblue;
-    margin: 50px auto;
-    padding: 40px;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
 #heading{
